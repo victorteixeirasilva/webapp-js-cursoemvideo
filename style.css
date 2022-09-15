@@ -3,6 +3,7 @@ body {
     padding: 10px;
     background-color: rgb(92, 214, 255);
     font: normal 18pt Arial, Helvetica, sans-serif;
+    margin: auto;
 }
 
 header {
