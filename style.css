@@ -2,7 +2,7 @@ body {
     text-align: center;
     padding: 10px;
     background-color: rgb(92, 214, 255);
-    font: normal 18pt Arial, Helvetica, sans-serif;
+    font: normal 12pt Arial, Helvetica, sans-serif;
     margin: auto;
 }
 
@@ -12,12 +12,16 @@ header {
     margin: 20px;
 }
 
+h1 {
+   font-size: 40pt;
+}
+
 section {
     background-color: white;
     border-radius: 20px;
     padding: 20px;
     max-width: 600px;
-    min-width: 350px;
+    min-width: 290px;
     margin: auto;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.476);
 }
@@ -25,7 +29,7 @@ section {
 #card{
     margin: auto;
     margin-top: 30px;
-    width: 300px;
+    width: 250px;
     padding: 15px;
     border-radius: 15px;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.476);
